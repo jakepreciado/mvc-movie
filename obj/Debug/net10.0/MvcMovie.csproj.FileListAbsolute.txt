@@ -730,3 +730,4 @@ C:\Users\jacob\School\2026\Term 1\CSE325 - .NET Software Development\W02 Assignm
 C:\Users\jacob\School\2026\Term 1\CSE325 - .NET Software Development\W02 Assignment - ASP.NET Core UI - MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.pdb
 C:\Users\jacob\School\2026\Term 1\CSE325 - .NET Software Development\W02 Assignment - ASP.NET Core UI - MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 C:\Users\jacob\School\2026\Term 1\CSE325 - .NET Software Development\W02 Assignment - ASP.NET Core UI - MVC\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
+C:\Users\jacob\School\2026\Term 1\CSE325 - .NET Software Development\W02 Assignment - ASP.NET Core UI - MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
